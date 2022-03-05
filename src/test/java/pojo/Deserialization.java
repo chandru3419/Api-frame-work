@@ -21,5 +21,6 @@ public void deserialization() throws JsonParseException, JsonMappingException, I
 	System.out.println(pobj.empId);
 	System.out.println(pobj.name);
 	System.out.println(pobj.phoneNo);
+	System.out.println("bmbmnbmnbmnb");
 }
 }
