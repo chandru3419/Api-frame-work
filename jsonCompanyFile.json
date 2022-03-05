@@ -1,0 +1,17 @@
+{
+  "companyname" : "TYSS",
+  "empId" : "TY3419",
+  "emailId" : "Chandru@gamil.com",
+  "phoneNo" : 987456321,
+  "employeeDetails" : [ {
+    "name" : "chandru",
+    "empId" : "TY3419",
+    "email" : "chandru@gamil.com",
+    "phoneNo" : 95874612
+  }, {
+    "name" : "shekhar",
+    "empId" : "TY1234",
+    "email" : "shekhar@gamil.com",
+    "phoneNo" : 951753258
+  } ]
+}

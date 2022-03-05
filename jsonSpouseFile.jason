@@ -1,0 +1,11 @@
+{
+  "name" : "Chandru",
+  "empId" : "TY-3419",
+  "emailId" : "chandru@3419.com",
+  "phoneNo" : 987456321,
+  "spouse" : {
+    "name" : "kas",
+    "email" : "kas@gmail.com",
+    "phoneNo" : 789456123
+  }
+}
