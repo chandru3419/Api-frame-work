@@ -21,8 +21,9 @@ pojoLibrary pobj = new pojoLibrary("chandru","TY-3419", "chandru@testyantra", 98
 //converting java object into jason
 ObjectMapper mapper = new ObjectMapper();
 
-//printing json object into consol
+//printing json object into console
 System.out.println(mapper.writeValueAsString(pobj));
 mapper.writerWithDefaultPrettyPrinter().writeValue(new File("./jsondata.json"), pobj);
+
 }
 }
